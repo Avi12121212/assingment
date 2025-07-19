@@ -1,0 +1,1298 @@
+.car-variant-repo p {
+    margin: 0;
+    margin-bottom: 9px;
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+select {
+    -webkit-appearance: none;
+    /* Chrome, Safari, Opera */
+    -moz-appearance: none;
+    /* Firefox */
+    appearance: none;
+}
+
+.btnrto-repo {
+    border: none;
+    padding: 0px;
+}
+
+.payment-members-info-repo {
+    word-wrap: break-word;
+}
+
+.car-variant-select-repo {
+    margin-top: 9px;
+}
+
+.btn-primary {
+    background: darkblue !important;
+}
+
+.proposer-details-title-repo h2 {
+    font-size: 18px;
+}
+
+.input-custom-label-repo {
+    color: #00000b !important;
+}
+
+.pull-right {
+    font-size: 15px;
+    margin-left: 55px;
+    display: flex;
+}
+
+.basic-main-cover-repo {
+    margin-top: 25px;
+}
+
+.btn-block+.btn-block {
+    margin-top: 0px;
+}
+
+.share-container {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.proposer-details-title-repo {
+    margin-top: 15px;
+}
+
+.form-btn-repo {
+    margin-bottom: 20px;
+}
+
+.insurance-company-facility-repo {
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+
+.bussiness-cover-box {
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.our-partner-box img {
+    width: 60%;
+}
+
+.bussiness-heading-cover {
+    text-align: center;
+    margin-bottom: 15px;
+    text-decoration: underline;
+}
+
+.bussiness-box-data-text ul li p span {
+    font-weight: 600;
+    font-size: 15px;
+    text-decoration: underline;
+    color: #232260;
+}
+
+.liability-repo {
+    margin-top: 80px;
+}
+
+.bussiness-box-data-text ul li p {
+    font-size: 14px;
+    color: black;
+}
+
+.bussiness-box-data-text ul li {
+    color: #23226f;
+}
+
+.bussiness-heading-cover h4 {
+    font-weight: 600;
+    color: #202263;
+}
+
+.health-quote-rev-sum-insured-repo {
+    text-align: center !important;
+}
+
+.insurance-company-facility-repo img {
+    width: 60%;
+}
+
+.make-claim-feature-select-wrap-repo label {
+    margin-top: 15px !important;
+}
+
+.form-group-repo {
+    margin-bottom: -2px !important;
+}
+
+.card-header-repo {
+    border: 1px solid #242a6d !important;
+    border-radius: 5px !important;
+}
+
+.vehical-model-repo {
+    border-radius: 4px !important;
+    box-shadow: none;
+    border: 1px solid #e0e1e3 !important;
+}
+
+.vehical-model-name-repo {
+    font-weight: 400 !important;
+}
+
+.vehical-year-repo {
+    border: 1px solid #e0e1e3 !important;
+    font-size: 10px;
+}
+
+.car-insurance-compare-collaps-cover .nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    padding: 8px 20px !important;
+}
+
+.form-check-label-repo {
+    color: black !important;
+}
+
+.health-quote-insurer-viewall-cover-repo {
+    float: right;
+    margin-top: -75px;
+    margin-right: 5px;
+}
+
+.car-variant-select-repo:hover {
+    outline: 1px solid #26225e !important;
+}
+
+.share-btn {
+    color: white;
+    background: linear-gradient(180deg, #7d7ddc 0%, #e4707a 100%) !important;
+}
+
+.btn-secondary-repo {
+    margin-bottom: 20px;
+}
+
+.car-variant-repo:hover {
+    outline: 1px solid #26225e !important;
+}
+
+.model-name-repo {
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.vehical-year-repo {
+    border: 1px solid #e0e1e3 !important;
+}
+
+.health-quote-tag {
+    display: none;
+}
+
+.vehical-year-repo p {
+    font-size: 13px;
+}
+
+.vehical-year-boxes-wraper-repo:hover {
+    outline: 1px solid #26225e !important;
+}
+
+.vehical-model-repo:hover {
+    outline: 1px solid #26225e !important;
+}
+
+.car-variant-tabs-repo {
+    font-size: 20px !important;
+}
+
+.required-repo {
+    font-size: 13px;
+}
+
+.nav-tabs {
+    border-bottom: none;
+    float: right;
+    margin-top: 0px;
+}
+
+.car-insurance-compare-collaps-cover .nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    color: #fff;
+    background-color: #26225e;
+    border-color: #dee2e6 #dee2e6 #fff;
+    /* padding-top: 12px !important; */
+    /* padding: 8px 50px !important; */
+}
+
+.car-policy-repo {
+    color: #00000b !important;
+}
+
+.quote-more-repo {
+    font-size: 14px !important;
+}
+
+/* .car-details-name span a {
+    float: right;
+    margin-top: -3px;
+    margin-left: 10px;
+} */
+
+.btn-primary-repo {
+    font-size: 13px !important;
+    padding: 3px 13px !important;
+}
+
+.page-share-repo i {
+    font-size: 12px !important;
+}
+
+.car-insurance-repo {
+    width: 145%;
+}
+
+.addons-check-details-repo ul li strong {
+    font-weight: 500;
+}
+
+.lead-section-cover {
+    margin-top: 50px;
+    border: 1px solid #140395;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 14px;
+    margin-bottom: 50px;
+}
+
+.lead-section-cover img {
+    border-radius: 13px 0px 0px 13px;
+    /* height: 123vh; */
+}
+
+.lead-form-image-section {
+    text-align: center;
+    /* background-image: linear-gradient(180deg, #fff, #e2edf3); */
+    background: #f6f6f6;
+    padding: 0px 0px;
+    border-right: 1px solid #969699;
+}
+
+.container {
+    /* max-width: 1360px !important; */
+    max-width: 1140px;
+}
+
+.lead-form-image-section {
+    text-align: center;
+    /* background-image: linear-gradient(180deg, #fff, #e2edf3); */
+    background: #f6f6f6;
+    padding: 0px 0px;
+    border-right: 1px solid #969699;
+}
+
+.lead-form-cover {
+    padding: 0 50px;
+}
+
+.lead-form-cover h1 {
+    color: #140395;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+}
+
+.lead-form-cover p {
+    font-size: 25px;
+    text-align: center;
+}
+
+.lead-form-cover .form-group {
+    margin-bottom: 12px !important;
+}
+
+.lead-form-cover .form-control {
+    height: 55px;
+    border-color: #c5c5c5;
+}
+
+.lead-form-cover .btn-primary {
+    width: 84%;
+    font-size: 15px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 19px;
+    background: #000599 !important;
+    color: #fff !important;
+    margin-top: 32px;
+    padding: 13px 0;
+}
+
+.lead-form-cover label {
+    margin: 0;
+}
+
+.error {
+    font-size: 12px;
+    color: red !important;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    .navbar-repo img {
+        width: 45% !important;
+    }
+
+    .header-contact-wraper-repo {
+        width: 102%;
+    }
+
+    .lead-section-cover img {
+        border-radius: 13px 0px 0px 13px;
+        height: 180vh;
+    }
+
+    .lead-form-cover {
+        padding: 0 15px;
+    }
+
+    .lead-form-cover p {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .lead-form-cover h1 {
+        font-size: 21px;
+    }
+
+    .header-repo {
+        margin-top: 5px;
+    }
+
+    .hero-product-logo img {
+        width: 42%;
+    }
+
+    .login-box-repo button {
+        margin-left: 0px;
+        margin-bottom: 10px;
+    }
+
+    .home-product-rev-wrapper-repo {
+        padding: 35px 0px;
+    }
+
+    .insurers-img-box-repo img {
+        margin-left: 35px;
+    }
+
+    .discover-details-repo h4 {
+        font-size: 28px;
+    }
+
+    .pull-right {
+        font-size: 15px !important;
+        margin-left: 10px !important;
+    }
+
+    .check-btn-repo {
+        width: 70px;
+    }
+
+    .discover-details-repo h2 {
+        font-size: 23px;
+    }
+
+    .discover-details-repo p {
+        font-size: 13px;
+    }
+
+    .text-tab-repo {
+        margin-top: -40px;
+    }
+
+    .text-main-repo {
+        font-size: 25px;
+    }
+
+    .why-choose-row-repo {
+        margin-left: 0px;
+    }
+
+    .why-choose-box-repo {
+        height: 200px;
+    }
+
+    .navbar-toggler:not(:disabled):not(.disabled) {
+        cursor: pointer;
+        background: #003478;
+        border: none;
+        margin-top: 0px;
+        margin-right: 0px;
+    }
+
+    .vehical-model-name-repo {
+        font-size: 14px;
+    }
+
+    .model-name-repo {
+        font-size: 10px;
+        font-weight: normal;
+    }
+
+    .home-click-repo label {
+        font-size: 13px !important;
+        font-weight: 500;
+        display: flex;
+        align-items: center;
+        gap: 2px;
+    }
+
+    .required-repo {
+        font-size: 10px;
+    }
+
+    .get-car-variant-main-wrap .button {
+        font-weight: normal;
+    }
+
+    .vehical-year-repo p {
+        font-size: 10px;
+        font-weight: normal;
+    }
+
+    .car-policy-repo {
+        font-size: 12px !important;
+        font-weight: 500 !important;
+        color: black;
+    }
+
+    .quote-more-repo {
+        font-size: 11px !important;
+        display: flex;
+        align-items: center;
+        gap: 3px;
+    }
+
+    .text-repo {
+        font-size: 12px;
+    }
+
+    .car-details-name span a {
+        float: right;
+        margin-top: -3px;
+        margin-left: 10px;
+    }
+
+    .btn-primary-repo {
+        font-size: 13px;
+        padding: 3px 13px;
+    }
+
+    .make-a-claim-main-wrap-repo {
+        padding: 70px 0px;
+    }
+
+    .page-share-repo i {
+        font-size: 13px !important;
+    }
+
+    .facility-title-repo {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .addons-check-details-repo ul li i {
+        font-size: 13px !important;
+    }
+
+    .addons-check-details-repo ul li strong {
+        font-size: 14px !important;
+        font-weight: 500;
+    }
+
+    .car-insurance-company-facility-repo img {
+        margin-left: -15px;
+        width: 85%;
+    }
+
+    .car-compare-idv-result strong {
+        font-weight: 500;
+    }
+
+    .voluntary-insurer-title p {
+        color: #00000b !important;
+    }
+
+    .car-insurance-repo {
+        width: 131%;
+        padding: 4px 0px;
+        background: linear-gradient(180deg,
+                #7d7ddc 0%,
+                #e4707a 100%) !important;
+        margin-top: 10px;
+        color: white;
+        border-radius: 6px 0px 6px;
+    }
+
+    .btn-price-repo {
+        padding: 9px 15px;
+        margin-left: 33px;
+    }
+
+    .border-btn-repo {
+        width: 25% !important;
+        margin-left: 250px !important;
+        margin-top: 30px !important;
+    }
+
+    .make-claim-feature-select-wrap .form-control {
+        font-size: 13px !important;
+    }
+
+    .pos-corner-repo h2 {
+        font-size: 21px;
+    }
+
+    .contact-details-box-repo {
+        padding: 15px 0px 17px 17px !important;
+    }
+
+    .contact-details-box-detail-repo {
+        padding-left: 0px !important;
+    }
+
+    .contact-details-box-detail-repo h3 {
+        font-size: 16px;
+    }
+
+    .contact-details-box-detail-main-repo {
+        margin-left: -80px;
+    }
+
+    .contact-details-box-detail-main-repo h3 {
+        font-size: 16px;
+    }
+
+    .contact-details-box-detail-repo p {
+        font-size: 12px;
+    }
+
+    .contact-details-box-detail-repo p a {
+        font-size: 12px;
+        word-wrap: break-word;
+    }
+
+    .contact-details-box-icon .box-circle {
+        height: 50px;
+        width: 35px;
+        top: -1px;
+        left: 6px;
+    }
+
+    .contact-icon-repo i {
+        font-size: 25px !important;
+    }
+
+    .contact-form-wrap-repo {
+        margin-top: 0px !important;
+    }
+
+    .why-choose-img-repo {
+        display: none !important;
+    }
+
+    .car-variant-select-box {
+        border: 1px solid #e0e1e3 !important;
+    }
+
+    /* ================Health Inner Pages ================== */
+    .health-stepper-image-repo {
+        width: 50%;
+        margin-left: 200px;
+        margin-bottom: 20px;
+        margin-top: 0 !important;
+    }
+
+    .form-check-label-repo {
+        color: #00000b !important;
+    }
+
+    .health-quote-rev-sum-insured {
+        text-align: center !important;
+    }
+
+    .health-quote-insurer-premium-repo {
+        width: 32%;
+        float: right;
+        margin-top: -65px;
+        border-left: none !important;
+    }
+
+    .health-quote-insurer-viewall-cover-repo {
+        margin-top: -75px !important;
+        margin-bottom: 40px !important;
+        display: flex;
+        flex-direction: column;
+        width: 25%;
+        float: none;
+    }
+
+    .health-quote-insurer-box-rev-repo {
+        padding: 15px 15px 0px 15px;
+    }
+
+    .health-quote-compare-rev-repo {
+        width: 55%;
+    }
+
+    /* ===========Car Inner Pages ============ */
+    .modal-content-repo {
+        width: 130% !important;
+        margin-left: -75px !important;
+    }
+
+    .premium-breakup-modal-info-box-content-repo {
+        font-size: 12px;
+    }
+
+    .premium-breakup-top-vehical-details-content-repo {
+        font-weight: 500;
+    }
+
+    .premium-breakup-modal-vehical-details-image-repo img {
+        width: 45%;
+        margin-left: 157px;
+        margin-bottom: 10px;
+    }
+
+    .premium-breakup-modal-info-box-repo {
+        font-size: 11px;
+    }
+
+    .premium-breakup-modal-title-repo h3 {
+        font-size: 25px;
+        font-weight: 500;
+        margin-top: 10px;
+    }
+
+    .input-custom-label-repo {
+        font-size: 12px !important;
+    }
+
+    .insurance-company-facility-repo img {
+        width: 35%;
+    }
+
+    .btn-secondary-repo {
+        margin-bottom: 20px;
+    }
+
+    .home-click-form-boxinput.previous-policy-box-shadow label {
+        font-size: 11px !important;
+    }
+
+    .insurance-company-facility-logo img {
+        width: 20%;
+    }
+
+    .basic-details-form-wraper-repo {
+        margin-left: 4px;
+        margin-right: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .nav-tabs {
+        border-bottom: none;
+        float: right;
+        margin-top: -68px;
+    }
+
+    .table-bordered td,
+    .table-bordered th {
+        font-size: 13px;
+    }
+
+    .btn-secondary {
+        font-size: 12px;
+        padding: 8px 21px;
+    }
+}
+
+/* SMARTPHONES LANDSCAPE & TABLETS PORTRAIT */
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+/* SMARTPHONES PORTRAIT */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    .car-variant-repo p {
+        font-size: 10px;
+    }
+
+    .lead-form-cover {
+        padding: 0 20px;
+        margin-bottom: 20px;
+    }
+
+    .lead-form-cover h1 {
+        font-size: 20px;
+        margin-top: 32px;
+    }
+
+    .lead-form-cover p {
+        font-size: 17px;
+        text-align: center;
+    }
+
+    .lead-form-cover .form-control {
+        height: 42px;
+        margin-top: 10px;
+    }
+
+    .header-contact-wraper-repo {
+        width: 104%;
+    }
+
+    .get-car-variant-main-wrap .button {
+        font-weight: normal;
+    }
+
+    .vehical-model-name-repo {
+        font-size: 12px;
+    }
+
+    .radio-repo li {
+        list-style: none;
+        float: left !important;
+        border: none !important;
+        margin-left: 10px;
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
+    .model-name-repo {
+        font-size: 9px;
+        font-weight: normal;
+    }
+
+    .vehical-year-repo p {
+        font-size: 10px;
+        font-weight: normal;
+    }
+
+    .required-repo {
+        font-size: 12px;
+    }
+
+    .home-click-repo label {
+        font-size: 13px;
+        font-weight: 400;
+        display: flex;
+        align-items: center;
+        gap: 2px;
+    }
+
+    .card-header-repo a {
+        font-size: 11px !important;
+        font-weight: 500;
+    }
+
+    .car-variant-tabs-repo {
+        font-size: 18px;
+    }
+
+    .make-a-claim-main-wrap-repo {
+        padding: 50px 0px;
+    }
+
+    .pos-corner-feature-points-wraper-repo .col-4 {
+        padding: 5px;
+    }
+
+    .pos-corner-repo h2 {
+        font-size: 17px;
+    }
+
+    .pos-corner-repo p {
+        font-size: 13px;
+    }
+
+    .navbar-nav-repo {
+        background: white ;
+    }
+
+    .navbar-nav-repo li a {
+        font-size: 13px !important;
+        font-weight: 500 !important;
+        padding: 10px 0px !important;
+        /* color: #00000b !important; */
+    }
+
+    .login-box button {
+        margin-left: -6px;
+    }
+
+    .contact-details-box-repo {
+        padding: 15px 0px 17px 17px !important;
+    }
+
+    .contact-details-box-detail-repo {
+        padding-left: 0px !important;
+        margin-left: -20px;
+    }
+
+    .contact-details-box-detail-repo h3 {
+        font-size: 16px;
+    }
+
+    .contact-details-box-detail-main-repo {
+        margin-left: -45px;
+    }
+
+    .contact-details-box-detail-main-repo h3 {
+        font-size: 16px;
+    }
+
+    .contact-details-box-detail-repo p {
+        font-size: 12px;
+    }
+
+    .contact-details-box-detail-main-repo p {
+        font-size: 12px;
+    }
+
+    .why-choose-img-repo {
+        display: none !important;
+    }
+
+    .contact-details-box-detail-repo p a {
+        font-size: 12px;
+        word-wrap: break-word;
+    }
+
+    .contact-details-box-icon .box-circle {
+        height: 50px;
+        width: 35px;
+        top: -1px;
+        left: 6px;
+    }
+
+    .contact-icon-repo i {
+        font-size: 25px !important;
+    }
+
+    .contact-form-wrap-repo {
+        margin-top: 0px !important;
+    }
+
+    .discover-details-repo h4 {
+        font-size: 27px !important;
+    }
+
+    .discover-details-repo h2 {
+        font-size: 21px !important;
+    }
+
+    .discover-details-repo p {
+        font-size: 13px !important;
+    }
+
+    .text-main-repo {
+        font-size: 22px !important;
+    }
+
+    .car-variant-select-box {
+        border: 1px solid #e0e1e3 !important;
+    }
+
+    .car-variant-select-repo {
+        padding: 4px;
+    }
+
+    .car-variant-select-repo span {
+        font-size: 12px;
+    }
+
+    .car-variant-select-box.car-variant-select-city {
+        padding-bottom: 4px !important;
+    }
+
+    .home-click-form-boxinput.previous-policy-box-shadow label {
+        font-size: 13px !important;
+    }
+
+    .car-edtails-main-wrapper .car-details-repo {
+        margin-bottom: 10px;
+        font-size: 17px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .car-details-repo span a {
+        float: left;
+        margin-left: 112px !important;
+        margin-top: 8px !important;
+    }
+
+    .btn-primary-repo {
+        margin-top: 4px !important;
+    }
+
+    /* ================= Health inner Pages============= */
+    .quote-tabs-title-repo {
+        font-size: 17px;
+    }
+
+    .health-stepper-image-repo {
+        width: 70%;
+        margin-left: 50px;
+        margin-bottom: 20px;
+        margin-top: 0px !important;
+    }
+
+    .quote-select-box-repo span {
+        font-size: 12px !important;
+    }
+
+    .quote-existing-illness-small-repo {
+        font-size: 13px !important;
+    }
+
+    .form-check-label-repo {
+        font-size: 14px !important;
+        color: #00000b !important;
+    }
+
+    .button-repo {
+        padding: 6px 20px !important;
+        font-weight: 500 !important;
+        font-size: 15px !important;
+    }
+
+    .health-quote-compare-rev-repo {
+        padding: 5px 0px;
+        font-size: 10px;
+        margin-top: -90px;
+        border-radius: 20px 0px 20px 0px;
+        background: linear-gradient(180deg, #7d7ddc 0%, #e4707a 100%);
+    }
+
+    .health-quote-rev-sum-insured-repo {
+        margin-top: -30px;
+        float: right;
+    }
+
+    .health-quote-insurer-logo-repo {
+        margin-top: 30px;
+    }
+
+    .health-quote-insurer-feature-name {
+        margin-top: 20px;
+    }
+
+    .health-quote-tag {
+        display: block;
+        font-size: 12px;
+        margin: 0;
+    }
+
+    .health-quote-rev-gst {
+        display: none;
+    }
+
+    /* =========== Car Inner Pages ========= */
+    .modal-content-repo {
+        width: 104% !important;
+        margin-left: -6px;
+    }
+
+    .input-custom-label-repo {
+        font-size: 14px !important;
+    }
+
+    .premium-breakup-modal-title-repo h3 {
+        font-weight: 600;
+        font-size: 20px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+
+    .premium-breakup-top-vehical-details-title-repo {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .premium-breakup-top-vehical-details-title-span-repo {
+        margin-top: 0px;
+    }
+
+    .premium-breakup-top-vehical-details-content-repo {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .premium-breakup-top-vehical-details-content-box-repo {
+        margin-top: 5px !important;
+    }
+
+    .car-details-name.car-details-repo span a {
+        margin-top: -25px;
+        font-size: 13px;
+        margin-right: -4px;
+    }
+
+    .btn-primary-repo {
+        font-size: 13px !important;
+        padding: 2px 13px !important;
+        width: 75px;
+        margin-right: -10px;
+    }
+
+    .car-insurance-company-facility-repo img {
+        width: 100% !important;
+        margin-top: 10px;
+    }
+
+    .car-insurance-repo {
+        padding: 3px 0px !important;
+        background: linear-gradient(180deg,
+                #7d7ddc 0%,
+                #e4707a 100%) !important;
+
+        margin-bottom: -9px;
+        margin-left: -15px;
+        border-radius: 0px 0px 6px 6px;
+        width: 112.4% !important;
+        margin-top: -10px;
+        font-weight: 500;
+        color: white;
+    }
+
+    .card-header-repo {
+        padding: 5px 5px !important;
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+
+    .car-compare-details-box-repo {
+        padding-bottom: 0px !important;
+        margin-right: -20px;
+        margin-left: -5px;
+        padding-right: 0px;
+        padding-right: 10px !important;
+        padding-left: 0px;
+    }
+
+    .btn-price-repo {
+        padding: 5px 10px !important;
+        font-size: 13px;
+        margin-top: -65px !important;
+        margin-left: 200px;
+    }
+
+    .addons-check-details-repo li {
+        font-size: 11px;
+    }
+
+    .addons-check-details-repo li i {
+        font-size: 15px !important;
+    }
+
+    .insurance-company-details-main-cover.car-compare-page-title {
+        display: none;
+    }
+
+    .rev-footer-wrapper {
+        width: 104%;
+    }
+
+    .car-details-repo span {
+        font-size: 15px;
+    }
+
+    .car-required-policy-text-repo {
+        font-size: 10px !important;
+    }
+
+    .car-required-policy-repo {
+        font-size: 12px !important;
+    }
+
+    .btn-secondary-repo {
+        margin-bottom: 20px;
+    }
+
+    .motor-understnd-list-repo li {
+        font-size: 12px;
+        font-weight: 600;
+    }
+
+    .required-policy-text-repo {
+        font-size: 13px;
+    }
+
+    .car-policy-repo {
+        font-weight: 400 !important;
+    }
+
+    .health-quote-compare-rev label {
+        font-size: 9px;
+        font-weight: 500;
+        color: white;
+    }
+
+    .health-quote-insurer-feature-row p {
+        float: right;
+        margin-right: -125px;
+        margin-top: 20px;
+    }
+
+    .form-check-label {
+        font-size: 11px;
+    }
+
+    .health-quote-insurer-viewall-cover-repo {
+        margin-top: -130px;
+        margin-left: -150px;
+    }
+
+    .health-quote-insurer-feature-row p {
+        float: right;
+        margin-right: -125px;
+        margin-top: 5px;
+    }
+
+    .health-quote-insurer-feature-row-repo {
+        display: none;
+    }
+
+    .btn-primary {
+        font-size: 11px;
+    }
+
+    .health-quote-insurer-feature-row img {
+        margin-left: 110px;
+    }
+
+    .health-quote-insurer-premium .btn-primary {
+        width: 60%;
+    }
+
+    .health-quote-rev-base-premium-repo {
+        display: none;
+    }
+
+    a.insurance-compare-plan-price.btn.btn-primary.create-premium-quote {
+        padding: 8px 19px;
+        display: flex;
+        font-size: 13px;
+        margin-left: 60px !important;
+        margin-top: 10px !important;
+    }
+
+    .health-quote-insurer-premium .btn-primary i {
+        display: none;
+    }
+
+    .bussiness-heading-cover h4 {
+        font-size: 15px;
+    }
+
+    .health-quote-insurer-feature-row img {
+        width: 16px;
+    }
+
+    .proposer-details-title-repo h2 {
+        font-size: 16px;
+    }
+
+    .proposer-details-title-repo span {
+        font-size: 14px;
+    }
+
+    .insurance-company-facility-logo img {
+        width: 40%;
+    }
+
+    .basic-details-form-wraper-repo {
+        margin-left: 4px;
+        margin-right: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .table-bordered td,
+    .table-bordered th {
+        font-size: 11px;
+    }
+
+    .nav-tabs {
+        border-bottom: none;
+        float: none;
+        margin-top: 0px;
+    }
+
+    .car-payment-page-logo img {
+        width: 35%;
+        margin-bottom: 10px;
+    }
+
+    .btn-block-repo {
+        display: block;
+        width: 36%;
+        position: absolute;
+        top: 128px;
+        left: 95px;
+    }
+
+    .btn-secondary {
+        font-size: 12px;
+        padding: 8px 15px;
+    }
+
+    .detail-main-repo {
+        margin-bottom: 60px;
+    }
+
+    .form-wraper-repo {
+        margin-left: 15px;
+        padding: 25px 15px;
+    }
+
+    .block-repo {
+        font-size: 15px;
+    }
+
+    .pull-right {
+        font-size: 13px !important;
+        margin-left: -157px;
+        display: flex !important;
+        margin-top: 109px !important;
+        padding-bottom: 3px !important;
+    }
+
+    .vehcial-details-share-btn-spa .compare-page-share .btn.btn-primary {
+        width: 100px;
+        border-radius: 13px;
+    }
+
+    .car-insurance-compare-collaps-cover .nav-tabs .nav-item.show .nav-link,
+    .nav-tabs .nav-link.active {
+        padding: 8px 20px !important;
+    }
+
+    .basic-cover-repo {
+        margin-left: 0px;
+    }
+
+    .proposer-details-title h2 {
+        font-size: 18px;
+    }
+
+    .btn-primary {
+        padding: 9px 16px;
+    }
+}

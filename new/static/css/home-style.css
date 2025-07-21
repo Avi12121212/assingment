@@ -750,7 +750,8 @@ button.sub-btn {
 /* about us section */
 
 .about-us-banner {
-  background-image: url('/premium/images/about-us-banner-1.jpg');
+  /* background-image: url('/premium/images/about-us-banner-1.jpg'); */
+  background-image: src('../images/favicon.ico');
   background-position: bottom;
   background-size: cover;
 }

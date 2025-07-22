@@ -749,12 +749,12 @@ button.sub-btn {
 
 /* about us section */
 
-.about-us-banner {
-  /* background-image: url('/premium/images/about-us-banner-1.jpg'); */
-  background-image: src('../images/favicon.ico');
+/* .about-us-banner {
+  background-image: url('/premium/images/about-us-banner-1.jpg');
+  
   background-position: bottom;
   background-size: cover;
-}
+} */
 
 .about-us-banner h1 {
   /* padding: 113px; */

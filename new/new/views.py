@@ -6,3 +6,9 @@ def index(request):
 
 def about(request):
     return render(request,"about.html")
+
+def makeclaim(request):
+    return render(request,'makeclaim.html')
+
+def poscorner(request):
+    return render (request,"poscorner.html")

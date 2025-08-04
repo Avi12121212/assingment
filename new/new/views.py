@@ -10,5 +10,3 @@ def about(request):
 def makeclaim(request):
     return render(request,'makeclaim.html')
 
-def poscorner(request):
-    return render (request,"poscorner.html")

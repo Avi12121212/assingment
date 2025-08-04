@@ -678,6 +678,7 @@ button.sub-btn {
   padding: 36px 26px;
   background: #ffb460;
   border-radius: 12px;
+  background-image: url(../images/service-bg-1.jpg);
   margin-top: 0px;
 }
 .form-header {

@@ -5,7 +5,7 @@ from . import views
 
 urlpatterns = [
     # path('admin/', admin.site.urls),
-    # path('index/', views.index),
+    path('index/', views.index),
     path('pos-corner/',views.poscorner),
     path('contact-us/',views.contact),
 ]

@@ -727,7 +727,7 @@ button.sub-btn {
 
 .form-wrapper {
   margin: 0px 0px;
-  background-image: url('/premium/images/form-banner-img.png');
+  background-image: url('../images/service-bg-1.jpg');
   height: 100%;
   display: flex;
   flex-direction: column;

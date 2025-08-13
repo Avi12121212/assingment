@@ -9,8 +9,8 @@ def index(request):
 
 
 def poscorner(request):
-    # myuser=Myuser(name='avinash',email="avinash@gmail.com",mobile_no="7985439176",pincode="221002",)
-    # myuser.save()  # this both lines are working very well data can save
+    myuser=Myuser(name='manish',email="manish@gmail.com",mobile_no="7985439175",pincode="221002",)
+    myuser.save()  
     if request.POST:
         name=request.POST["full_name"]
         email=request.POST["email_id"]
@@ -21,4 +21,6 @@ def poscorner(request):
 
 
 def contact(request):
+    # data= Myuser.objects.all()
+    print("data")
     return render (request,'contact.html')
